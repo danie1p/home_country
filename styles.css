@@ -49,7 +49,7 @@ img {
 }
 .header {
     
-    background-image: url("./images/san-salvador.webp");
+    background-image: url("./san-salvador.webp");
     background-size: cover;
     display: flex;
     flex-direction: column;
